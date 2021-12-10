@@ -1,6 +1,6 @@
 {
-   "mongooseConnectionString": "mongodb+srv://raiddr:euSyJ7p4aebty3_@cluster0.x2ors.mongodb.net/data",
-   "token": "OTA3NjkxMDE3NjQ4NjAzMjE4.YYq3Ig.ZKExma1ncSVAv7W6_Xof8JmVAzQ",
+   "mongooseConnectionString": "",
+   "token": "",
    "prefix": "z!",
    "ownerIDS": [
       "767507249416503336"
@@ -24,6 +24,6 @@
 
    "spotify": {
       "clientID": "321333976f45431a982618b969443068",
-      "clientSecret": "3a18d84e795c40378a06283cc2967b81"
+      "clientSecret": ""
    }
 }
